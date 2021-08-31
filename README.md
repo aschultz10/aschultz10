@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aschultz10
-- I’m currently ... Searching for a job in data / analytics / research after my Johns Hopkins program
-- I’m currently learning ... HTML, CSS, Java, next unit is R & Tableau
-- I’m looking to collaborate on ... Anything that can get my coding knowledge more refined 
+- I’m currently ... Searching for a job in data / analytics / research
+- I’m skilled in ... Pyton, Tableau, HTML, Java, SQL, Regression
 - How to reach me ... 512 626 0268, alexeschultz@gmail.com
 
 <!---
